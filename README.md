@@ -24,7 +24,7 @@ Desenvolvido em C++, o projeto teve como objetivo explorar e fixar alguns concei
 
 ### **Como rodar:**
 1. Siga as instruções do repositório a seguir [Tutorial IDE](https://github.com/mateus-sm/Conio2-VsCode) para utilizar o VSCODE como IDE C / C++ (Copilar o arquivo). Tal repositório ja inclui a biblioteca do CONIO2 que é utilizada no projeto, caso opte por outra IDE de C / C++, certifique-se de incluí-la.
-2. O arquivo `prono.dat` é a planilha que contém dados prontos, adicione no mesmo diretório para utilizar.
+2. O arquivo `pronto.dat` é a planilha que contém dados prontos, adicione no mesmo diretório para utilizar.
 3. execute o programa `Excelgeral.cpp`.
 4. A planilha que o usuário irá gerar se chamará `batman.dat`, e será salva no mesmo diretório do programa principal.
 
