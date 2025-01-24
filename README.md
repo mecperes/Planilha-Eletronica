@@ -79,3 +79,18 @@ MAX(??:??)).
 Tipos de nodos:
 
 ![MatrizEsparsa](Imagens/listagen.png)
+
+---
+
+- **Imagens do Programa**:
+
+![MatrizEsparsa](Imagens/EXCEL1.png)
+
+![MatrizEsparsa](Imagens/EXCEL5.png)
+
+![MatrizEsparsa](Imagens/EXCEL6.png)
+
+![MatrizEsparsa](Imagens/dash1.png)
+
+![MatrizEsparsa](Imagens/dash2.png)
+
